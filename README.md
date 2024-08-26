@@ -10,9 +10,18 @@ The NIS2 Directive (Directive on the security of network and information systems
 
 ## Documentation
 Official documents, guidelines, and resources related to the NIS2 Directive
+- [NIS2 Full Text](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022L2555&from=EN)
+- [NIS2 Helper](https://nis2directive.eu/)
+- [NIS2 Helper 2](https://www.nis-2-directive.com/)
+- [NIS2 Cooperation Group](https://digital-strategy.ec.europa.eu/en/policies/nis-cooperation-group)
+- [SANS InfoSec Policies Templates](https://www.sans.org/information-security-policy/)
+- [NIS2 to ISO27001](https://www.huntandhackett.com/blog/iso-mapping-tool)
 
 ## Tools
-Open-source tools and scripts to help implement NIS2 requirements
+Tools and scripts to help implement NIS2 requirements
+- [ENISA Tools](https://www.enisa.europa.eu/tools)
+- [ENISA NIS2 Tool](https://www.enisa.europa.eu/topics/cybersecurity-policy/nis-directive-new/nis-directive-tool)
+- [CISO Assistant](https://github.com/intuitem/ciso-assistant-community)
 
 ## Best Practices
 Examples of best practices for implementing NIS2 security measures
