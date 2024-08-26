@@ -19,6 +19,8 @@ Open-source tools and scripts to help implement NIS2 requirements
 ## Best Practices
 Examples of best practices for implementing NIS2 security measures
 
+---
+
 We welcome contributions from anyone interested in NIS2 and cybersecurity. Whether you're a security expert, a developer, or just interested in learning more, your input is valuable. Feel free to:
 
 Follow this repository to stay informed about updates, new resources, and community discussions related to the NIS2 Directive.
