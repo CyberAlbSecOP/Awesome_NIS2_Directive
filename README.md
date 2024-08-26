@@ -1,6 +1,6 @@
 # Awesome-NIS2-Directive
 
-!!! WORK IN PROGRESS, PLEASE BE PATIENT AND STAR THE REPO !!!
+# !!! WORK IN PROGRESS, PLEASE BE PATIENT AND STAR THE REPO !!!
 
 🔒💻 Enhancing the Security of Network and Information Systems in the EU
 
