@@ -4,10 +4,6 @@
 
 ![NIS-2](https://github.com/user-attachments/assets/ed7695ba-d68e-4dc5-a18f-71b715fb2e85)
 
-# 🔒💻 Enhancing the Security of Network and Information Systems in the EU 🔒💻
-
-This repository is dedicated to providing resources, information, and tools related to the NIS2 Directive, a European Union regulation aimed at improving the security of network and information systems across the EU.
-
 ## What is NIS2?
 
 The NIS2 Directive (Directive on the security of network and information systems) is a European Union regulation that sets out to enhance the security of network and information systems in the EU. It aims to achieve a high common level of security of network and information systems within the EU, by improving the cybersecurity capabilities of Member States and promoting cooperation between them.
