@@ -10,12 +10,13 @@ This repository is dedicated to providing resources, information, and tools rela
 
 The NIS2 Directive (Directive on the security of network and information systems) is a European Union regulation that sets out to enhance the security of network and information systems in the EU. It aims to achieve a high common level of security of network and information systems within the EU, by improving the cybersecurity capabilities of Member States and promoting cooperation between them.
 
-## Repository Content
+## Documentation: Official documents, guidelines, and resources related to the NIS2 Directive
 
-### Documentation: Official documents, guidelines, and resources related to the NIS2 Directive
-### Tools: Open-source tools and scripts to help implement NIS2 requirements
-### Best Practices: Examples of best practices for implementing NIS2 security measures
-### Community: A space for discussion, questions, and collaboration on NIS2-related topics
+## Tools: Open-source tools and scripts to help implement NIS2 requirements
+
+## Best Practices: Examples of best practices for implementing NIS2 security measures
+
+## Community: A space for discussion, questions, and collaboration on NIS2-related topics
 
 We welcome contributions from anyone interested in NIS2 and cybersecurity. Whether you're a security expert, a developer, or just interested in learning more, your input is valuable. Feel free to:
 
