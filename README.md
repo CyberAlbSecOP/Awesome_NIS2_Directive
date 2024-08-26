@@ -28,3 +28,6 @@ We welcome contributions from anyone interested in NIS2 and cybersecurity. Wheth
 Follow this repository to stay informed about updates, new resources, and community discussions related to the NIS2 Directive.
 
 👉 Star this repository to show your support and help us build a community around NIS2! 💫
+
+### KEYWORDS
+NIS2 Directive, Cybersecurity, Network and Information Systems, EU Regulation, Critical Entities, Essential Services, Digital Infrastructure, Information Sharing, Incident Notification, Cybersecurity Measures, Risk Management, Compliance, European Union, Critical Entities Resilience (CER) Directive, Cybersecurity Risk Management, Information System Security, Project Management, Policy on Information System Security, Incident Response, Management Review, Fines, Government Role, EU Cybersecurity, Network Security, Information Security, Cybersecurity Framework, NIS2 Implementation, Cybersecurity Best Practices, EU Cybersecurity Regulation, Critical Infrastructure Protection
