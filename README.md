@@ -14,7 +14,7 @@ Official documents, guidelines, and resources related to the NIS2 Directive
 - [NIS2 Helper](https://nis2directive.eu/)
 - [NIS2 Helper 2](https://www.nis-2-directive.com/)
 - [NIS2 Cooperation Group](https://digital-strategy.ec.europa.eu/en/policies/nis-cooperation-group)
-- [SANS InfoSec Policies Templates](https://www.sans.org/information-security-policy/)
+- [SANS InfoSec Policy Templates](https://www.sans.org/information-security-policy/)
 - [NIS2 to ISO27001](https://www.huntandhackett.com/blog/iso-mapping-tool)
 
 ## Tools
