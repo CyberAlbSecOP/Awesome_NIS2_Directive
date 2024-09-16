@@ -1,7 +1,5 @@
 # Awesome-NIS2-Directive
 
-# !!! WORK IN PROGRESS, PLEASE BE PATIENT AND STAR THE REPO !!!
-
 ![NIS-2](https://github.com/user-attachments/assets/ed7695ba-d68e-4dc5-a18f-71b715fb2e85)
 
 ## What is NIS2?
