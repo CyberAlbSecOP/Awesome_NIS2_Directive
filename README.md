@@ -21,6 +21,10 @@ Tools and scripts to help implement NIS2 requirements
 - [ENISA NIS2 Tool](https://www.enisa.europa.eu/topics/cybersecurity-policy/nis-directive-new/nis-directive-tool)
 - [CISO Assistant](https://github.com/intuitem/ciso-assistant-community)
 
+## GPT
+Custom Chat GPT Agents that helps you navigate the NIS2 directive
+- [AdoNIS2](https://chatgpt.com/g/g-nrIWz7WIz-adonis2-lead-directive-implementor)
+
 ## Best Practices
 Examples of best practices for implementing NIS2 security measures
 
