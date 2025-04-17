@@ -1,3 +1,5 @@
+Credit: aptien.com
+
 NIS2 outlines **essential appropriate and proportionate technical and organizational measures** that organizations have to take. The following list of ten essential NIS2 measures and duties ensures the minimum requirements to be covered.
 
 1. Asset management
