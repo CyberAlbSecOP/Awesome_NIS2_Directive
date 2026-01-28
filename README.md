@@ -16,6 +16,9 @@ Official documents, guidelines, and resources related to the NIS2 Directive
 - [NIS2 to ISO27001](https://www.huntandhackett.com/blog/iso-mapping-tool)
 - [NIS2 vs ISO27001 vs CIS8](https://www.compliancehub.wiki/content/files/2025/02/NIS2-versus-ISO27001_2022-versus-CIS-v8.pdf)
 
+### Germany
+- [#nis2know info packs](https://www.bsi.bund.de/dok/nis-2-infopakete)
+
 ## Tools
 Tools and scripts to help implement NIS2 requirements
 - [ENISA Tools](https://www.enisa.europa.eu/tools)
